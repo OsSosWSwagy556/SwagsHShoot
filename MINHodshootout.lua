@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OsSosWSwagy556/SwagsHShoot/refs/heads/main/SwagsGba.lua"))()
--- FUCK YOU BITCH WHY U IN HERE SKIDER ASS BITCH
+print("WHY YOU IN HERE HUH YEAH YOU SKIDER ASS BITCH GO HEAD JUST SKID IT ")
